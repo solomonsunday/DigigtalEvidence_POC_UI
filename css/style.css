@@ -1,0 +1,57 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.page-title {
+  border: 1px solid gray;
+  text-align: left;
+}
+
+.instmt-capture {
+  border: 1px solid black;
+  height: 35vh;
+}
+
+.face-capture {
+  border: 1px solid black;
+  height: 25vh;
+  width: 17vw;
+
+
+}
+
+.prev-instru {
+  border: 1px solid black;
+  height: 10vh;
+
+}
+
+.transac-type {
+  margin-left: 281px;
+
+}
+
+.container {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.heading-bold {
+  font-weight: bold;
+  font-family: initial;
+}
+.page-head {
+  margin-right: 268px;
+}
